@@ -1,6 +1,6 @@
 # docker-2048
 
-simple is better test
+simple is better test02
 
 a smaller docker version of 2048
 
