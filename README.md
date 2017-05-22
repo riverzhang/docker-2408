@@ -1,6 +1,6 @@
 # docker-2048
 
-simple is better
+simple is better test
 
 a smaller docker version of 2048
 
